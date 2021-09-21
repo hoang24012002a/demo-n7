@@ -10,3 +10,8 @@ git add <file_name> / .
 git commit -m "update/add file"
 git push
 
+## branches
+1. master -> chạy đúng nhất
+2. dev -> lập trình merge
+3. feature/search, featuture/getlist
+
